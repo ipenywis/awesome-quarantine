@@ -39,4 +39,3 @@
 - [Job Queue system](https://github.com/OptimalBits/bull) - Simple Jobs queueing system where you can add jobs to the queue and they can be processed concurently, the user will be able to specify the processing code.
 - [Cron Jobs Management System](https://github.com/jobbyphp/jobby) - Cron Jobs Management and tracking system that will allow you to easily identify running jobs and quickly run new jobs with custom commands.
 - [RESTFUL API Server](https://github.com/ipenywis/API-Demo-Pokemon-) - Create an CRUD (Create, Read, Update and Delete) API for managing a data on a database on a server this what most of apps needs so you will learn a lot by doing it.
--
